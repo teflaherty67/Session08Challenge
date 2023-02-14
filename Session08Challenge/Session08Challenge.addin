@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Session08Challenge</Text>
+    <Description>Some description for Session08Challenge</Description>
+    <Assembly>Session08Challenge.dll</Assembly>
+    <FullClassName>Session08Challenge.Command</FullClassName>
+    <ClientId>a60861db-e33c-43a6-8b29-6202d79db679</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
